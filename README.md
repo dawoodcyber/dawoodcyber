@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hey 👋, I'm Dawood Shaikh!
 
-<!--
-**dawoodcyber/dawoodcyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate cybersecurity professional with a strong potential to handle continuous risk and risk management. My current learning journey includes:
+
+- **Python Scripting**: Learning from SMIT to enhance my skills as a pentester.
+- **Cloud Generative AI Engineering**: Pursuing a course from GIAIC to stay ahead in upcoming technologies.
+
+---
+
+### Skills and Interests
+
+- **Cybersecurity**: Risk management, pentesting, and continuous security monitoring.
+- **Python**: Scripting, automation, and general-purpose programming.
+- **Cloud Technologies**: Exploring AI engineering and its applications in cloud environments.
+
+---
+
+### Current Learning
+
+- **Python at SMIT**: Focused on enhancing my scripting abilities for pentesting and automation tasks.
+- **Cloud Generative AI at GIAIC**: Learning about the latest advancements in AI and cloud technology integration.
+
+---
+
+### Goals
+
+- **Cybersecurity Excellence**: Apply knowledge to manage and mitigate cybersecurity risks effectively.
+- **Advanced Scripting**: Achieve proficiency in Python for automation and security tasks.
+- **Leverage AI and Cloud**: Utilize cutting-edge technologies to create innovative security solutions.
+
+---
+
+### Get in Touch
+
+- **[LinkedIn]([https://www.linkedin.com/in/dawoodcyber/))**: Connect with me for professional networking and collaboration.
+- **[GitHub](https://github.com/dawoodcyber)**: Follow my repositories and projects.
+
+---
+
+Thank you for visiting my profile! Stay tuned for more updates and projects.
