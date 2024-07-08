@@ -36,7 +36,7 @@ I'm a passionate cybersecurity professional with a strong potential to handle co
 
 ### Get in Touch
 
-- **[LinkedIn]([https://www.linkedin.com/in/dawoodcyber/))**: Connect with me for professional networking and collaboration.
+- **[LinkedIn](https://www.linkedin.com/in/dawoodcyber)**: Connect with me for professional networking and collaboration.
 - **[GitHub](https://github.com/dawoodcyber)**: Follow my repositories and projects.
 
 ---
