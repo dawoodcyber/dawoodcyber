@@ -4,44 +4,43 @@
 
 ### About Me 💼
 
-🔐 Currently, I'm delving into the Google Cybersecurity course and enhancing my pentesting skills. I possess strong proficiency in Java and JDBC, having completed several projects. As a cybersecurity enthusiast on an endless learning journey, I'm always curious and constantly evolving.
+🔐 I'm passionate about cybersecurity and currently pursuing the **Google Cybersecurity Certificate**. My goal is to become a skilled **Security Analyst**. I’m also expanding my knowledge through courses from **TryHackMe**, **PortSwigger**, and **PicoCTF**, with a strong interest in **bug bounty hunting**.
 
-📚 Currently studying:
-
-- **Python Scripting**: Learning from SMIT to enhance my skills as a pentester.
-- **Cloud Generative AI Engineering**: Pursuing a course from GIAIC to stay ahead in upcoming technologies.
+📚 **Current Focus**:
+- Advancing my **cybersecurity skills** through practical labs and challenges.
+- Enhancing my **Python** scripting knowledge to automate security tasks and bolster my analysis capabilities.
 
 ---
 
 ### Skills and Interests 💡
 
-- **Cybersecurity**: Information Security, pentesting, and continuous security monitoring.
-- **Python**: Scripting, automation, and general-purpose programming.
-- **Cloud Technologies**: Exploring AI engineering and its applications in cloud environments.
+- **Cybersecurity**: Threat analysis, vulnerability assessment, pentesting, and continuous security monitoring.
+- **Bug Bounty**: Learning to find and exploit vulnerabilities in web applications and networks.
+- **Python**: Utilizing scripting for automation and basic cybersecurity tasks.
 
 ---
 
 ### Current Learning 📖
 
-- **Python at SMIT**: Focused on enhancing my scripting abilities for pentesting and automation tasks.
-- **Cloud Generative AI at GIAIC**: Learning about the latest advancements in AI and cloud technology integration.
-- **Google Cybersecurity Course**: Expanding my knowledge in cybersecurity.
+- **Google Cybersecurity Certificate**: Diving deep into key areas of network and information security.
+- **TryHackMe, PortSwigger & PicoCTF**: Hands-on training to develop real-world pentesting and exploitation skills.
+- **Python**: Advancing my scripting capabilities to assist in cybersecurity and automation.
 
 ---
 
 ### Goals 🎯
 
-- **Cybersecurity Excellence**: Apply knowledge to manage and mitigate cybersecurity risks effectively.
-- **Advanced Scripting**: Achieve proficiency in Python for automation and security tasks.
-- **Leverage AI and Cloud**: Utilize cutting-edge technologies to create innovative security solutions.
+- **Security Expertise**: Apply my learning to mitigate cybersecurity risks and contribute to a secure digital world.
+- **Bug Bounty Hunting**: Gain expertise in finding vulnerabilities and reporting them ethically.
+- **Advanced Python**: Continue improving my Python skills to support security analysis and automation.
 
 ---
 
 ### Get in Touch 🌐
 
-- **[LinkedIn](https://www.linkedin.com/in/dawoodcyber)**: Connect with me for professional networking and collaboration.
+- **[LinkedIn](https://www.linkedin.com/in/dawoodcyber)**: Connect with me for networking and collaboration.
 - **[GitHub](https://github.com/dawoodcyber)**: Follow my repositories and projects.
 
 ---
 
-Thank you for visiting my profile! Stay tuned for more updates and projects. 🚀
+Thank you for visiting my profile! Stay tuned for more updates and cybersecurity projects. 🚀
